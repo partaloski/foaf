@@ -16,7 +16,7 @@
   foaf:givenname "Petar" ;
   foaf:family_name "Partaloski" ;
   foaf:nick "Petar" ;
-  foaf:mbox_sha1sum "f346f5b0c7c35730517bf5eb3510196c25253c86" ;
+  foaf:mbox_sha1sum "ad9a09592cf78b49d73ccbb280d6a1970724884a" ;
   foaf:homepage <https://github.com/partaloski> ;
   foaf:depiction <https://pbs.twimg.com/profile_images/1524199600931889152/HPvXrEfe_400x400.jpg> ;
   foaf:workplaceHomepage <https://www.it-labs.com> ;
@@ -25,11 +25,16 @@
   foaf:knows [
     a foaf:Person ;
     foaf:name "Martin Nikolov" ;
-    foaf:mbox_sha1sum "afb49eab1ffe4e07a1c5f72d313b35ec1763fc6b" ;
+    foaf:mbox_sha1sum "11a498a22b687837b5686f52c6b72f3801ffb229" ;
     rdfs:seeAlso <https://raw.githubusercontent.com/Mato-77/Foaf/master/foaf.ttl>
   ], [
     a foaf:Person ;
     foaf:name "Emilijan Koteski" ;
-    foaf:mbox_sha1sum "d4295679d0653404aa755edee9364491adee6091" ;
+    foaf:mbox_sha1sum "340295c3802ab175cbd1e09325d4c1d667b464d4" ;
     rdfs:seeAlso <https://raw.githubusercontent.com/bratuchedot/foaf/master/foaf.ttl>
+  ], [
+    a foaf:Person ;
+    foaf:name "Gjorgi Ivanov" ;
+    foaf:mbox_sha1sum "0ca0d3c4e14e984ed303e9161827cc19350e4bec" ;
+    rdfs:seeAlso <https://www.dropbox.com/s/pre903l6oxxjrn0/foaf.ttl?dl=0>
   ] .
